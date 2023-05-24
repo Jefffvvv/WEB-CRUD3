@@ -3,11 +3,11 @@
 <head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
-    <title>Add student</title>
+    <title>Tambah Buku</title>
 </head>
 <body>
 <div class="container">
-    <h3>Add student</h3>
+    <h3>Tambah Buku</h3>
     <form action="proses_tambah.php" method="post" enctype="multipart/form-data">
         Name :
         <input type="text" name="nama" value="" class="form-control">
