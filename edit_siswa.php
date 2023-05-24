@@ -27,11 +27,11 @@
                         <input type="text" class="form-control" name="nama" value="<?=$data_siswa['nama']?>" placeholder="Masukkan nama" required>
                     </div>
                     <div class="mb-3">
-                        <label for="absen" class="form-label">Absence</label>
+                        <label for="absen" class="form-label">Halaman</label>
                         <textarea class="form-control" name="absen" row="3" placeholder="Masukkan absen" required><?=$data_siswa['absen']?></textarea>
                     </div>
                     <div class="mb-3">
-                        <label for="kelas" class="form-label">Class</label>
+                        <label for="kelas" class="form-label">Kategori</label>
                         <input type="text" class="form-control" name="kelas" value="<?=$data_siswa['kelas']?>" placeholder="Masukkan kelas" required>
                     </div>
                     <div class="mb-3">
