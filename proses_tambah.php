@@ -61,9 +61,9 @@ if($_POST) {
 
                 if($insert) {
           
-                     echo "<script>alert('Sukses menambahkan siswa');location.href='siswa.php';</script>";
+                     echo "<script>alert('Sukses menambahkan buku');location.href='siswa.php';</script>";
                  } else {
-                    echo "<script>alert('Gagal menambahkan siswa');location.href='siswa.php';</script>";
+                    echo "<script>alert('Gagal menambahkan buku');location.href='siswa.php';</script>";
                 }
             } else {
                 echo "<script>alert('Error saat upload file foto');location.href='siswa.php';</script>";
