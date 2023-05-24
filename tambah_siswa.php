@@ -12,10 +12,10 @@
         Name :
         <input type="text" name="nama" value="" class="form-control">
 
-        Absence :
+        Halaman :
         <textarea name="absen" cols = 147 class = "form-control"></textarea>
 
-        Class :
+        Kategori :
         <input type="text" name="kelas" value="" class="form-control">
 
         Picture :
